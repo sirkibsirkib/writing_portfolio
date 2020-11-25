@@ -1,2 +1,3 @@
-# 2020
-1. Reowolf project documentation: https://zenodo.org/record/4160607
+# Writing Portfolio
+
+1. Reowolf 1.0 technical project report (with Hans-Dieter A. Hiep). Link: https://ir.cwi.nl/pub/29949
